@@ -4,7 +4,7 @@
 
 # Define the search and replace pairs
 declare -A replacements=(
-    ["<MONGODB_Name>"]="add_value"
+    ["<MONGODB_Name>"]="add_value_test"
     ["<MONGODB_CONNECTION_STRING>"]="add_value"
     ["<AZURE_OPENAI_API_INSTANCE_NAME>"]="add_value"
     ["<AZURE_OPENAI_API_KEY>"]="add_value"
